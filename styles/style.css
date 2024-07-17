@@ -1,0 +1,52 @@
+
+/*backgraound color and font selection */
+
+.main-bg {
+    background-color: #f4f4f4;
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+    font-variation-settings:
+        "wdth" 100;
+}
+
+
+
+.congrates-Div {
+    background-color: #ffffff;
+    width: 300px;
+    margin: auto;
+    text-align: center;
+    border-bottom-right-radius: 50%;
+    border-bottom-left-radius: 50%;
+
+}
+
+.congratsTitle {
+    padding-top: 150px;
+
+}
+
+.wishTitle {
+    text-align: center;
+    margin-top: -15px;
+    color: #373737;
+}
+
+.glassIcon {
+    width: 100px;
+    padding-bottom: 20px;
+}
+
+.wishDetailTitle {
+    text-align: center;
+    color: #373737;
+}
+
+.btnNext {
+    background-color: black;
+    color: white;
+    width: 200px;
+    height: 40px;
+}
